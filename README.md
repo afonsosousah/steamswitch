@@ -9,7 +9,9 @@
 - It ends any processes that start with "Steam", and then restarts Steam.exe once the switch is made.
 
 ### Screenshots
-![](https://github.com/afonsosousah/steamswitch/blob/master/Screenshot_1.png)
+<p align="center">
+  <img width="347" height="172" src="https://github.com/afonsosousah/steamswitch/blob/master/Screenshot_1.png">
+</p>
 
 ### Contact
 If need or want to contact me add me on Discord: Afonso1234#2209
