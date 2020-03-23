@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="200" src="https://github.com/afonsosousah/steamswitch/blob/master/GitHub_banner.png">
+  <img width="800" height="200" src="https://i.imgur.com/4BLyygQ.png">
 </p>
 
 ## Fast and Simple program to Switch between Steam Accounts
