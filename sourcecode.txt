@@ -141,7 +141,7 @@ Click Add
 Select the desired account in the menu
 Click Open
 
-Creator(Discord): Afonso1234#2209",
+Creator: github.com/afonsosousah",
                MsgBoxStyle.MsgBoxHelp,
                "Help")
     End Sub
