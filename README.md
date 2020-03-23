@@ -1,5 +1,10 @@
-![](https://github.com/afonsosousah/steamswitch/blob/master/GitHub_banner.png)
+<p align="center">
+  <img width="800" height="200" src="https://github.com/afonsosousah/steamswitch/blob/master/GitHub_banner.png">
+</p>
+
 ## Fast and Simple program to Switch between Steam Accounts
+
+
 
 ### How does it work?
 1. It lists the usernames you have added in the ListBox
@@ -8,10 +13,14 @@
 
 - It ends any processes that start with "Steam", and then restarts Steam.exe once the switch is made.
 
+
+
 ### Screenshots
 <p align="center">
   <img width="347" height="172" src="https://github.com/afonsosousah/steamswitch/blob/master/Screenshot_1.png">
 </p>
+
+
 
 ### Contact
 If need or want to contact me add me on Discord: Afonso1234#2209
