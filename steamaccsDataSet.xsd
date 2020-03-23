@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="steamaccsDataSet" targetNamespace="http://tempuri.org/steamaccsDataSet.xsd" xmlns:mstns="http://tempuri.org/steamaccsDataSet.xsd" xmlns="http://tempuri.org/steamaccsDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="steamaccsConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="steamaccsConnectionString (MySettings)" PropertyReference="ApplicationSettings.WindowsApp3.My.MySettings.GlobalReference.Default.steamaccsConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="steamaccsDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="steamaccsDataSet" msprop:Generator_UserDSName="steamaccsDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="steam" msprop:Generator_TableClassName="steamDataTable" msprop:Generator_TableVarName="tablesteam" msprop:Generator_TablePropName="steam" msprop:Generator_RowDeletingName="steamRowDeleting" msprop:Generator_RowChangingName="steamRowChanging" msprop:Generator_RowEvHandlerName="steamRowChangeEventHandler" msprop:Generator_RowDeletedName="steamRowDeleted" msprop:Generator_UserTableName="steam" msprop:Generator_RowChangedName="steamRowChanged" msprop:Generator_RowEvArgName="steamRowChangeEvent" msprop:Generator_RowClassName="steamRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
